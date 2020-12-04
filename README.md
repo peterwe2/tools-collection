@@ -1,4 +1,4 @@
-# tools-collection
+# Tools Collection
 A list of tools
 
 ## Table of contents
@@ -307,6 +307,7 @@ A list of tools
 
 ## 🧩Git; Github
 
+- GUI Clients https://git-scm.com/downloads/guis
 - 從 github 下載東西 [https://minhaskamal.github.io/DownGit/#/home](https://minhaskamal.github.io/DownGit/#/home)
 - Tower
 - Kaleidoscope
