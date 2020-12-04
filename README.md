@@ -1,5 +1,5 @@
 # Tools Collection
-A list of tools
+A list of tools.
 
 ## Table of contents
 
